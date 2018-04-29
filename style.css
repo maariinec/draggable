@@ -1,0 +1,9 @@
+.drag {
+   display: flex;
+}
+li:hover {
+ cursor: pointer;
+}
+h1{
+  text-align: center;
+}
